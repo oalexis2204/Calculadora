@@ -6,6 +6,9 @@ int main()
 {
 	int n1=1, n2=2;
 	int sum=0;
+	int rest=0;
 	sum=n1+n2;
+	rest=n1-n2;
 	cout<<"Suma: "<<sum;
+	cout<<"Resta: "<<rest;
 }
